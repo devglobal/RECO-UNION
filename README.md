@@ -1,5 +1,7 @@
 # RECO-UNION
 
+# https://fazliddindev1.github.io/RECO-UNION/
+
 ## Introduction
 
 Reco Union is a project developed as a part of our university initiative to provide a solution for e-waste management. As a developer, I created this website to facilitate the sale of e-waste to different companies and to offer e-waste rubbish bins and other related products.
@@ -17,8 +19,4 @@ Reco Union is a project developed as a part of our university initiative to prov
 - **Facilitate Recycling:** Encourage recycling by connecting sellers of e-waste with companies that can recycle it.
 - **Promote Environmental Responsibility:** Raise awareness and promote environmentally responsible practices.
 
-## How to Use
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/reco-union.git
